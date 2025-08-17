@@ -1,4 +1,6 @@
 
 
-- 👩💼 I don't work with programming yet
-- 🌱📚 I’m currently learning Java
+- 👩💼 I’m not working with programming yet  
+- 🌱📚 Currently learning **Java**  
+- 📊🗄️ Also studying **Databases**  
+- 🎨💻 Basic knowledge of **HTML** and **CSS**
